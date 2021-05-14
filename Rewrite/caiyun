@@ -1,0 +1,3 @@
+hostname=biz.caiyunapp.com
+# 彩云天气vip
+^https?:\/\/biz\.caiyunapp\.com\/(membership_rights|v2\/user) url script-response-body https://raw.githubusercontent.com/mymoonyue/QuantumultX/master/Scripts/scripts/caiyun_svip.js
