@@ -1,3 +1,2 @@
-hostname = api.gkocr.com
-
+hostname=api.gkocr.com
 ^https:\/\/api\.gkocr\.com\/api\/userlogin1.php url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/smy.js
